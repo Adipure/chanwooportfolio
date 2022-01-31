@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+  import React, { useState } from 'react';
 import Project from "../Project";
 
 function Portfolio() {
@@ -6,22 +6,22 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Pair_Up',
+      description: 'We have created a tool to make meal planning quick and easy! Simply select which ingredients and get tailor- made recipes and a corresponding YouTube video to show you how to follow along. Better yet, our app will even provide precise nutritional information and recommend the perfect beer pairings of your finished dish!',
+      link: "https://me0wmerz.github.io/pairUp",
+      repo: "https://github.com/me0wmerz/pairUp"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: '4AnimeArchive',
+      description: 'A website that allow you to search for your favorite animes and add them to your profile as you watch them.',
+      link: "https://anotheranimearchive.herokuapp.com/",
+      repo: "https://github.com/Adipure/anotherAnimeArchive"
     },
     {
       name: 'run-buddy',
       description: 'HTML/CSS',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/Adipure/anotherAnimeArchive"
     },
     {
       name: 'led-wall',
