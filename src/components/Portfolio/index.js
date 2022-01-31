@@ -18,22 +18,22 @@ function Portfolio() {
       repo: "https://github.com/Adipure/anotherAnimeArchive"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com/Adipure/anotherAnimeArchive"
+      name: 'htmlQuiz',
+      description: 'Simple Html basic Quiz. Enjoy!',
+      link: "https://adipure.github.io/homework004/",
+      repo: "https://github.com/Adipure/homework004"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weather',
+      description: 'Weather Check app that check 5days forecasts!',
+      link: "https://adipure.github.io/WeatherHomwork/",
+      repo: "https://github.com/Adipure/WeatherHomwork"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'techBlog',
+      description: 'Simple techBlog that you can share thoughts and comments!',
+      link: "https://trythisplease.herokuapp.com/login.html",
+      repo: "https://github.com/Adipure/technoBlog"
     },
   ]);
 
