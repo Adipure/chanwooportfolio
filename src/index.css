@@ -34,8 +34,8 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
-  background: var(--darker);
-  color: var(--light);
+  background: black;
+  color: whitesmoke;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -95,11 +95,11 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background: black(--dark);
 }
 
 header a {
-  color: var(--light);
+  color: white(--light);
 }
 
 button {
@@ -187,7 +187,7 @@ header img {
 
 nav {
   position: relative;
-  font-family: 'Aladin', cursive;
+  font-family: 'Didact Gothic', cursive;
   font-size: 2.5rem;
   margin: 30px 20px;
 }
