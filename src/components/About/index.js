@@ -1,11 +1,13 @@
 import React from 'react';
+import myPicture from '../../assets/myPicture/myPic.jpg';
+import "./index.css"
 
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+        <img src={myPicture} class = "img"></img>
         </div>
         <p>
           Hello!, My name is chanwoo Hwang. I am a Full Stack Web Developer graduated from UCI continue learning program. I enjoy coding, creating fun websites and gaming. I like to play golf.
