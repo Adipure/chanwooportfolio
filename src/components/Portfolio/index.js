@@ -7,7 +7,7 @@ function Portfolio() {
   const [projects] = useState([
     {
       name: 'Pair_Up',
-      description: 'We have created a tool to make meal planning quick and easy! Simply select which ingredients and get tailor- made recipes and a corresponding YouTube video to show you how to follow along. Better yet, our app will even provide precise nutritional information and recommend the perfect beer pairings of your finished dish!',
+      description: 'We have created a app to make meal planning quick and easy!',
       link: "https://me0wmerz.github.io/pairUp",
       repo: "https://github.com/me0wmerz/pairUp"
     },
