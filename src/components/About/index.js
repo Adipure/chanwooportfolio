@@ -10,8 +10,8 @@ function About() {
         <img src={myPicture} class = "img"></img>
         </div>
         <p>
-          Hello!, My name is chanwoo Hwang. I am a Full Stack Web Developer graduated from UCI continue learning program.
-          I love coding, craeting useful apps, and play game. 
+          Hello, My name is Chanwoo Hwang. I am a Full Stack Web Developer graduated from UCI continue learning program.
+          I love coding, creating useful apps, and play game. 
         </p>
       </div>
     </section>
