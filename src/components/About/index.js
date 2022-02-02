@@ -11,7 +11,7 @@ function About() {
         </div>
         <p>
           Hello, My name is Chanwoo Hwang. I am a Full Stack Web Developer graduated from UCI continue learning program.
-          I love coding, creating useful apps, and play game. 
+          I love coding, creating useful apps, and playing games. 
         </p>
       </div>
     </section>
