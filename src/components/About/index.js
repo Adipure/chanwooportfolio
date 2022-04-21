@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import myPicture from '../../assets/myPicture/myPic.jpg';
 import "./index.css"
@@ -11,7 +12,7 @@ function About() {
         </div>
         <p>
           Hello, My name is Chanwoo Hwang. I am a Full Stack Web Developer graduated from UCI continue learning program.
-          I love coding, creating useful apps, and playing games. 
+          I am open to learning and adapting to new technologies.
         </p>
       </div>
     </section>
