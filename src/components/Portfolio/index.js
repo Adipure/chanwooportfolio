@@ -17,12 +17,12 @@ function Portfolio() {
       link: "https://anotheranimearchive.herokuapp.com/",
       repo: "https://github.com/Adipure/anotherAnimeArchive"
     },
-    // {
-    //   name: 'htmlQuiz',
-    //   description: 'Simple Html basic Quiz. Enjoy!',
-    //   link: "https://adipure.github.io/homework004/",
-    //   repo: "https://github.com/Adipure/homework004"
-    // },
+    {
+      name: 'console.log',
+      description: 'Created a forum app where users can share thoughts, questions and answers about specific coding issues.',
+      link: "https://consolelog-proj3.herokuapp.com/",
+      repo: "https://github.com/Adipure/console.log"
+    },
     // {
     //   name: 'weather',
     //   description: 'Weather Check app that check 5days forecasts!',
