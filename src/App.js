@@ -4,6 +4,9 @@ import Nav from "./components/Nav";
 import Page from "./components/Page";
 import Footer from "./components/Footer";
 
+
+
+
 function App() {
   const [pages] = useState([
     {

@@ -4,13 +4,14 @@
   "private": true,
   "homepage": "http://adipure.github.io/reactPortfolio",
   "dependencies": {
+    "express": "^4.18.1",
     "gh-pages": "^3.2.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server/server.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
