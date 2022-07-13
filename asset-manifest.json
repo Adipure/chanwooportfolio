@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.1ce06d7a.chunk.css",
-    "main.js": "/reactPortfolio/static/js/main.30a0ff60.chunk.js",
-    "main.js.map": "/reactPortfolio/static/js/main.30a0ff60.chunk.js.map",
-    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.21fff2c0.js",
-    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.21fff2c0.js.map",
-    "static/js/2.78d3ba42.chunk.js": "/reactPortfolio/static/js/2.78d3ba42.chunk.js",
-    "static/js/2.78d3ba42.chunk.js.map": "/reactPortfolio/static/js/2.78d3ba42.chunk.js.map",
-    "index.html": "/reactPortfolio/index.html",
-    "precache-manifest.1372ca9f72f188a70bab4ef3d1e75252.js": "/reactPortfolio/precache-manifest.1372ca9f72f188a70bab4ef3d1e75252.js",
-    "service-worker.js": "/reactPortfolio/service-worker.js",
-    "static/css/main.1ce06d7a.chunk.css.map": "/reactPortfolio/static/css/main.1ce06d7a.chunk.css.map",
-    "static/js/2.78d3ba42.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.78d3ba42.chunk.js.LICENSE.txt",
-    "static/media/4AnimeArchive.jpg": "/reactPortfolio/static/media/4AnimeArchive.3254c0a4.jpg",
-    "static/media/cover-image.jpg": "/reactPortfolio/static/media/cover-image.8e6c758f.jpg",
-    "static/media/htmlQuiz.jpg": "/reactPortfolio/static/media/htmlQuiz.d9475cc3.jpg",
-    "static/media/myPic.jpg": "/reactPortfolio/static/media/myPic.6f6d0cbc.jpg",
-    "static/media/myResume.pdf": "/reactPortfolio/static/media/myResume.41940948.pdf",
-    "static/media/techBlog.jpg": "/reactPortfolio/static/media/techBlog.18889df3.jpg",
-    "static/media/weather.jpg": "/reactPortfolio/static/media/weather.792c43e4.jpg"
+    "main.css": "/chanwooportfolio/static/css/main.1ce06d7a.chunk.css",
+    "main.js": "/chanwooportfolio/static/js/main.1e1abab1.chunk.js",
+    "main.js.map": "/chanwooportfolio/static/js/main.1e1abab1.chunk.js.map",
+    "runtime-main.js": "/chanwooportfolio/static/js/runtime-main.e2223e44.js",
+    "runtime-main.js.map": "/chanwooportfolio/static/js/runtime-main.e2223e44.js.map",
+    "static/js/2.78d3ba42.chunk.js": "/chanwooportfolio/static/js/2.78d3ba42.chunk.js",
+    "static/js/2.78d3ba42.chunk.js.map": "/chanwooportfolio/static/js/2.78d3ba42.chunk.js.map",
+    "index.html": "/chanwooportfolio/index.html",
+    "precache-manifest.41a2899c05df2a13177769d386c616c8.js": "/chanwooportfolio/precache-manifest.41a2899c05df2a13177769d386c616c8.js",
+    "service-worker.js": "/chanwooportfolio/service-worker.js",
+    "static/css/main.1ce06d7a.chunk.css.map": "/chanwooportfolio/static/css/main.1ce06d7a.chunk.css.map",
+    "static/js/2.78d3ba42.chunk.js.LICENSE.txt": "/chanwooportfolio/static/js/2.78d3ba42.chunk.js.LICENSE.txt",
+    "static/media/4AnimeArchive.jpg": "/chanwooportfolio/static/media/4AnimeArchive.3254c0a4.jpg",
+    "static/media/console.log.jpg": "/chanwooportfolio/static/media/console.log.ff69ad52.jpg",
+    "static/media/cover-image.jpg": "/chanwooportfolio/static/media/cover-image.8e6c758f.jpg",
+    "static/media/htmlQuiz.jpg": "/chanwooportfolio/static/media/htmlQuiz.d9475cc3.jpg",
+    "static/media/myPic.jpg": "/chanwooportfolio/static/media/myPic.6f6d0cbc.jpg",
+    "static/media/myResume.pdf": "/chanwooportfolio/static/media/myResume.41940948.pdf",
+    "static/media/techBlog.jpg": "/chanwooportfolio/static/media/techBlog.18889df3.jpg",
+    "static/media/weather.jpg": "/chanwooportfolio/static/media/weather.792c43e4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.21fff2c0.js",
+    "static/js/runtime-main.e2223e44.js",
     "static/js/2.78d3ba42.chunk.js",
     "static/css/main.1ce06d7a.chunk.css",
-    "static/js/main.30a0ff60.chunk.js"
+    "static/js/main.1e1abab1.chunk.js"
   ]
 }
