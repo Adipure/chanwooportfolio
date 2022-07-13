@@ -4,7 +4,7 @@
 ## Live Link
 [!https://adipure.github.io/chanwooportfolio/]
 ## Description
-This is my professional Portfolio
+This is my new professional Portfolio
 
 ## Table of Contents
 - [Installation](#Installation)
