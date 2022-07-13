@@ -2,9 +2,9 @@
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Live Link
-[https://adipure.github.io/reactPortfolio/]
+[!https://adipure.github.io/chanwooportfolio/]
 ## Description
-This is my new professional Portfolio
+This is my professional Portfolio
 
 ## Table of Contents
 - [Installation](#Installation)
